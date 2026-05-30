@@ -1,5 +1,7 @@
 # Hi, I'm Selina 👋
-💻 Data Architecture, Analytics, and AI Professional
+💻 Data Architecture, Analytics, and AI Specialist
+
+🚀 Product Management Lead
 
 ⛓️ Blockchain & Web3 Enthusiast
 
