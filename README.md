@@ -40,6 +40,10 @@ Git · GitHub · Claude Code · Cursor · Visual Studio Code · Confluence · JI
 Built a Web3 voter app using Solidity in the Ethereum Sepolia blockchain network
 > [View Project](https://github.com/selinaa-tech/Web3-Voter-App)
 
+### ⛓ Vel'Afrika — E-Commerce Mobile App
+Built an online marketplace that connects African producers and artisans with international customers, with social and gamification (rewards) features
+> [View Project](https://github.com/selinaa-tech/Vel-Afrika-Ecommerce)
+
 ---
 
 ## 🌱 Currently Learning
