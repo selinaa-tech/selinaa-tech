@@ -12,7 +12,7 @@
 ## 🛠 Tech Stack
 
 **Languages:**
-HTML · CSS · PHP · JavaScript · SQL · Python · R · Solidity
+HTML · CSS · PHP · JavaScript · TypeScript · R · SQL · Python · Solidity
 
 **Data & AI Architecture and Engineering:**
 ETL Pipelines · Data Modeling · Data Warehousing · Data Lakehouse · APIs · Kubernetes · CI/CD · MLOps · AI Orchestration Frameworks (LangChain, LlamaIndex) · RAG · Vector Databases
